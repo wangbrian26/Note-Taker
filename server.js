@@ -1,5 +1,4 @@
 const express = require("express");
-const fs = require("fs");
 const { join } = require("path");
 const api = require("./routes");
 
